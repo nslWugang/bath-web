@@ -1,0 +1,41 @@
+/*main左边*/
+.main{
+	padding-top: 20px;
+	background-color: #1f1a16;
+	height: 600px;
+}
+.main-l{
+	width: 260px;
+	height: 100px;
+	border: 1px solid #3b332c;
+}
+.main-l p{
+	height: 50px;
+	line-height: 50px;
+	padding-left: 10px;
+	
+}
+.main .zixun{
+	color: #d39b76;
+	background-color: #231e1b;
+}
+/*main右边*/
+.main-r{
+	padding-left: 30px;
+}
+.main-r .img{
+	float: left;
+}
+.main-r .txt{
+	padding-left: 10px;
+	float: left;
+	width: 600px;
+}
+.main-r .txt h3{
+	font-size: 16px;
+	color: #fff;
+	margin-bottom: 10px;
+}
+.main-r li{
+	margin-bottom: 30px;
+}

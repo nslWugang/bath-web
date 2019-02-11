@@ -1,0 +1,28 @@
+/*产品展示*/
+.product{
+	padding-top: 50px;
+	background-color: #1f1a16;
+	height: 1050px;
+}
+.product li{
+	float: left;
+	margin-right: 20px;
+}
+.product li:hover{
+	transition: all .2s linear;
+	-webkit-box-shadow:0 15px 30px rgba(0,0,0,0.1);
+	box-shadow:0 15px 30px rgba(0,0,0,0.1);
+	-webkit-transition: all .2s linear;
+	-webkit-transform:translate3d(0,-2px,0);
+	transform: translate3d(0,-2px,0);
+}
+.product li:nth-child(4n){
+	margin-right: 0;
+}
+.product p{
+	text-align: center;
+	height: 60px;
+	line-height: 60px;
+	color: #fff;
+	font-size: 20px;
+}

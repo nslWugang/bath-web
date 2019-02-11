@@ -1,0 +1,130 @@
+/*流程图*/
+.grow{
+	height: 320px;
+	background-color: #1f1a16;
+}
+/*传承*/
+.ten-year{
+	height: 300px;
+	background-color: #1f1a16;
+}
+.ten-year-l{
+	width: 600px;
+	padding-right: 20px;
+	color: #ccc;
+}
+.ten-year h3{
+	color: #ffc001;
+	padding-left: 30px;
+	font-size: 18px;
+}
+.ten-year span{
+	display: inline-block;
+	padding-top: 5px;
+}
+.ten-year p{
+	line-height: 30px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+/*加盟优势*/
+.good{
+	height: 400px;
+	background-color: #1f1a16;
+}
+.good-l{
+	width: 600px;
+	padding-right: 20px;
+	color: #ccc;
+}
+.good-l h3{
+	padding-bottom: 20px;
+	color: #ffc001;
+	padding-left: 30px;
+	font-size: 20px;
+}
+.good-l span{
+	padding-top: 10px;
+}
+.good span{
+	display: inline-block;
+	
+}
+.good-l img{
+	margin-left: 30px;
+}
+/*加盟优势右边*/
+.good-r{
+	margin-top: 50px;
+	margin-left: 30px;
+}
+.good-r b{
+	text-align: center;
+	width:20px;
+	height: 20px;
+	margin-top: 10px;
+	display: inline-block;
+	color: #000;
+	border-radius: 50%;
+	background-color: #ffc001;
+}
+.good-r h3{
+	padding-left: 30px;
+	font-size: 14px;
+	padding-top: 5px;
+	color: #ffc001;
+}
+.good-r p{
+	color: #ccc;
+	padding-left: 30px;
+}
+.good-r li{
+	margin-bottom: 25px;
+}
+/*提交*/
+/*提交左边*/
+.put-in{
+	background-color: #1f1a16;
+	height: 320px;
+}
+.put-in-l .img{
+	position: relative;
+	margin-left: 180px;
+}
+.put-in b{
+	left: 80px;
+	top: 80px;
+	position: absolute;
+	font-size: 40px;
+	color: #ffc001;
+	width: 300px;
+}
+/*提交右边*/
+.put-in-r {
+	margin-left: 230px;
+	color: #ccc;
+}
+
+.put-in-r  input{
+	background-color: ##453c45;
+}
+.put-in-r textarea{ 
+	width: 500px;
+	height: 100px;
+	resize:none;
+}
+.put-in-r span{
+	line-height: 100px;
+	display: inline-block;
+	width: 25px;
+	padding-bottom: 50px;
+}
+.put-in-r button{
+	width: 240px;
+	height: 45px;
+	background-color: #FFAD2B;
+	border: none;
+}
+.put-in-r li{
+	margin-bottom: 20px;
+}
